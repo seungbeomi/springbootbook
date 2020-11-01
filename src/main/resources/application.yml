@@ -1,0 +1,11 @@
+spring:
+  h2:
+    console:
+      enabled: true
+  jpa:
+    show_sql: true
+  security:
+    oauth2:
+      client:
+        clientId:
+        clientSecret:
